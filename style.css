@@ -1,0 +1,138 @@
+ body{
+
+    background-image:url(tasty-ice-cream-scoops.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;  
+} 
+
+
+
+.Nav{
+        padding-bottom: 1px;
+        position: fixed;
+        background-color:rgb(93, 57, 66);
+        display: block;
+        width: 100%;
+       top: 2px;
+       height:8%;
+       left: 0px;
+       display: flex;
+       
+        
+ }
+
+ a{
+   
+    margin-right: 100px;
+    color: white;
+   display: inline-block;
+   background-color: transparent;
+   text-decoration: none;
+   
+} 
+
+button{
+    background-color: rgb(152, 111, 111);
+    cursor: pointer;
+    color: white;
+   
+}  
+   div a:hover {
+        border-bottom: 3px solid white;
+       
+      }
+ 
+#logo{
+    text-decoration: none;
+    top: 0%;
+   
+}
+footer{
+    background-color: whitesmoke;
+    color:black;
+    text-align:center;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 0px;
+    height: 40px;   
+    width: 100%;
+}
+
+ .contents{
+   margin-left: 20px;
+    padding: 20px;
+   text-align: center;
+    margin-top: 100px;
+  display: block;
+ width: 50%;
+ background-color: rgb(93, 57, 66);
+ opacity: 0.6;
+color: white;
+font-family:Arial, Helvetica, sans-serif
+
+} 
+#About{
+     text-align: center;
+    margin-top: 150px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+#ice{
+    color: white;
+    margin-top: 50px;
+    text-align: center
+}
+
+#officee{
+    color: white;
+    /* text-align: center; */
+    margin-top: 100px;
+    padding:0px
+
+}
+#recipe{
+    color: white;
+    padding-left:20px;
+    margin-top: 100px;
+   
+
+}
+#contact{
+    background-color:whitesmoke;
+    border: 2px solid;
+    width: 40%;
+    height: 40%;
+    margin-top: 100px;
+    color:rgb(28, 27, 27)
+
+    
+   
+}
+body {
+	margin: 0;
+}
+
+.Profile{
+    color: white;
+}
+
+.images{
+    display:flex;
+    margin-top: 10%;
+    justify-content: space-evenly;
+    color: aliceblue;
+
+    
+}
+.box{
+    height:300px ;
+    width: 200px;
+    border: 2px solid white;
+    background-size: cover;
+    
+    
+}
